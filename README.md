@@ -1,4 +1,4 @@
-# Iconicity in suprasegmental variables in classic Hollywood cinema
+# Iconization of suprasegmental variables in classic Hollywood cinema
 
 Data for the iconicity project.
 
